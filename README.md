@@ -4,7 +4,7 @@ A specialized RAG-powered document intelligence engine for accurate semantic sea
 
 # RAG Chatbot — PDF/TXT Question Answering with LangChain, ChromaDB & Groq
 
-# Chatbot Live link: [ Optimizing the full backend process. Take some time ]
+- Chatbot Live link: [ Optimizing the full backend process. Take some time ]
 
 
 A learning project that builds a Retrieval-Augmented Generation (RAG) pipeline. It loads documents, splits their text into chunks, converts the chunks into vector embeddings, stores them in ChromaDB, retrieves relevant content for a user question, and passes that context to a Groq-hosted language model to generate an answer.
