@@ -1,0 +1,30 @@
+
+.idea
+
+# Secrets
+.env
+
+# Python
+__pycache__
+/__pycache__/
+*.py[cod]
+.venv/
+.venv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data and generated vector database (review before committing)
+chroma_db/
+Data/
+
+.ipykernal
+
+# Vector DB
+chroma.sqlite3
+
+chroma.sqlite3
+*.sqlite3
+Data/pdf/ML Book 1.pdf
+
+Data/pdf/ML Book 1.pdf
